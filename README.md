@@ -22,5 +22,5 @@
 空间复杂度：O(N)，由于使用递归，将会使用隐式栈空间。递归深度可能会达到n层。
 
 ## 备注
-链接：https://leetcode-cn.com/problems/reverse-linked-list/solution/fan-zhuan-lian-biao-by-leetcode/
+链接：https://leetcode-cn.com/problems/reverse-linked-list/
 来源：力扣（LeetCode）
